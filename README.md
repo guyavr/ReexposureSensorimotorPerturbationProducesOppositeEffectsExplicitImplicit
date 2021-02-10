@@ -14,8 +14,8 @@ CCW- rotation direction during learning: 1- Counterclockwise; 0- Clockwise
 ti- target location  
 stage- block number  
 fbi- feedback: 1- cursor presented; 0- no cursor  
-ri- rotation size and direction: positive values- counterclockwise rotation; negative values- clockwise rotation  
-clampi- (meaningless variable)  
+ri- rotation size and direction with respect to the movement of the hand (Experiment 1) or with respect to the target location (Experiments 2 and 2S): positive values- counterclockwise rotation; negative values- clockwise rotation.
+(clampi- meaningless variable)  
 breaks- break duration between trials (in minutes)  
 hand_theta- hand movement direction with respect to the target location at the radial distance to the target (this variable was used as the 'hand angle' measure in the paper)  
 raw_ep_hand_ang- actual hand movement direction at the radial distance to the target (without subtracting target location)  
