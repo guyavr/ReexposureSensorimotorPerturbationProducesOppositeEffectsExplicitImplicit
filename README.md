@@ -1,5 +1,5 @@
 # ReexposureSensorimotorPerturbationProducesOppositeEffectsExplicitImplicit
-Data for the paper Re-exposure to a sensorimotor perturbation produces opposite effects on explicit and implicit learning processes
+Data for the paper Reexposure to a sensorimotor perturbation produces opposite effects on explicit and implicit learning processes
 
 The .mat files include the raw data collected during the experiments:  
 Exp1.mat- Experiment 1  
